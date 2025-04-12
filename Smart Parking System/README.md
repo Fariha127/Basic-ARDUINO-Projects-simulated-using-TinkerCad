@@ -74,4 +74,4 @@ This project demonstrates a basic **automated parking system** using Arduino. It
 
 ---
 
-Let me know if you want a simulation-ready schematic or TinkerCAD link setup!
+
