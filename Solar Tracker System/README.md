@@ -62,6 +62,4 @@ Power LDR circuits using 5V and GND through 10kΩ resistors.
 - **Automated solar systems** for irrigation, charging, or lighting  
 - **Smart solar street lights**
 
----
 
-Let me know if you want a 3D simulation, Proteus setup, or Fritzing schematic for this project!
