@@ -1,4 +1,4 @@
-# DIY Thermometer Project using Arduino
+# DIY Thermometer
 
 This project utilizes an analog temperature sensor (like the TMP36) to measure the temperature, convert it to Fahrenheit, and use an LED indicator to signal different temperature ranges. The LED will blink with different delays based on the temperature detected, providing a simple visual representation of the temperature.
 
