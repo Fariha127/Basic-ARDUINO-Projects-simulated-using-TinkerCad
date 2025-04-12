@@ -1,4 +1,4 @@
-# Project: Interfacing TMP36 with ATtiny85 for Temperature-Based LED Control
+# Interfacing TMP36 with ATtiny85 for Temperature-Based LED Control
 
 This project demonstrates how to interface the TMP36 temperature sensor with an ATtiny85 to measure the temperature and control an RGB LED. Based on the temperature reading, the RGB LED color changes to indicate different temperature ranges. The project also includes a blinking effect for extreme temperature conditions (e.g., below 9°C or above 35°C).
 
