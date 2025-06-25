@@ -104,5 +104,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 📬 Contact
-If you have an issue, reach out to me via LinkedIn ([Fariha Tabassum](https://www.linkedin.com/in/fariha-tabassum-/) )    
+If you have an issue, reach out to me via LinkedIn ([Fariha Tabassum](https://www.linkedin.com/in/fariha-tabassum-/))    
 If you found this helpful, give it a ⭐ and share with others!
