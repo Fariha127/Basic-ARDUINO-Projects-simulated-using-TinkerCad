@@ -76,7 +76,7 @@ This repository includes a variety of foundational Arduino projects, each with i
    - Visit [Tinkercad Circuits](https://www.tinkercad.com/circuits)
    - Read the pdf files for understanding the components used in the circuit.
    - Recreate the circuit.
-   - Upload the code and start simulation!
+   - Upload the code and start the simulation!
      
 > No physical Arduino board is needed — all projects can be simulated online.
 
@@ -104,6 +104,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 📬 Contact
-
-[Fariha127](https://github.com/Fariha127)  
+If you have an issue, reach out to me via LinkedIn ([Fariha Tabassum]([https://www.linkedin.com/in/fariha-tabassum-/]))    
 If you found this helpful, give it a ⭐ and share with others!
